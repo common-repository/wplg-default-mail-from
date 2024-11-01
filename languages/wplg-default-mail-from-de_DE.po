@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wplg default mail from\n"
+"POT-Creation-Date: 2016-06-06 18:34+0530\n"
+"PO-Revision-Date: 2016-06-06 18:36+0530\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Last-Translator: \n"
+"Language: de\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wplg.php:47 wplg.php:137
+msgid "WPLG Default Mail From Settings"
+msgstr "WPLG Standard-Mail-Aus-Einstellungen"
+
+#: wplg.php:118
+msgid "Please enter a From name!"
+msgstr "Bitte geben Sie einen Namen aus!"
+
+#: wplg.php:124
+msgid "Please eneter a From email address!"
+msgstr "Bitte geben Sie eine E-Mail Adresse von!"
+
+#: wplg.php:141
+msgid "class=\"form-table\""
+msgstr ""
+
+#: wplg.php:141
+msgid "cellspacing=\"2\" cellpadding=\"5\" class=\"editform\""
+msgstr ""
+
+#: wplg.php:143
+msgid "Enable plugin?"
+msgstr "Aktivieren Plugin?"
+
+#: wplg.php:143
+msgid "Set to yes, if you want to enable this plugin."
+msgstr "Setzen Sie auf Ja, wenn Sie dieses Plugin aktiviert werden soll."
+
+#: wplg.php:147
+msgid "Yes"
+msgstr "ja"
+
+#: wplg.php:149
+msgid "No"
+msgstr "Nein"
+
+#: wplg.php:154
+msgid "From Name"
+msgstr "Von Namen"
+
+#: wplg.php:154
+msgid "This is the name that will appear in the \"From\" part of your email."
+msgstr "Dies ist der Name, der in der \"Von\" Teil Ihrer E-Mail angezeigt."
+
+#: wplg.php:158
+msgid "From Email"
+msgstr "Aus der Email"
+
+#: wplg.php:158
+msgid "This is the email address that WordPress will use to send emails."
+msgstr "Dies ist die E-Mail-Adresse, die Wordpress -E-Mails zu senden verwenden."
+
+#: wplg.php:165
+msgid "Save Changes"
+msgstr "Änderungen speichern"
